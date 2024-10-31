@@ -1,0 +1,23 @@
+header {
+    height: 50px;
+    display: flex;
+    padding: 35px 40vh 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    height: auto;
+    width: 190px;
+}
+ul {
+    display: flex;
+    gap: 20px;
+}
+a{
+    text-decoration: none;
+}
+li {
+    list-style: none;
+    color: #868789;
+    font-size: 0.8em;
+}
