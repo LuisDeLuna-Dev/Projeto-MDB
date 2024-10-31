@@ -31,17 +31,20 @@ form input{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 8px;
+    margin-top: 10px;
 }
-form button{
+.button{
+    display: flex;
+    align-items: center;
+    justify-content:center;
     width: 100px;
     height: 40px;
-    margin-top: 10px;
     background-color: #da0f12;
+    color: #ffffff;
     border: none;
     border-radius: 5px;
 }
-form p{
+.login-entrar p{
     cursor: pointer;
 }
 button:hover{
