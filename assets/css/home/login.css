@@ -8,8 +8,8 @@
     padding: 30px ;
 }
 .login h2{
-    margin-left: 50px;
-    margin-bottom: 30px;
+    font-size: 35px;
+    margin: 20px 0 20px 50px;
 }
 form{
     display: flex;
@@ -22,12 +22,14 @@ form input{
     height: 40px;
     border-radius: 5px;
 }
-
+.login-entrar{
+    
+}
 form button{
     width: 100px;
     height: 40px;
-    margin: 10px 0 0 70%;
-    background-color: #d01f22;
+    margin-top: 10px;
+    background-color: #da0f12;
     border: none;
     border-radius: 5px;
 }
