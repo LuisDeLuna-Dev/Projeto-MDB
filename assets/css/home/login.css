@@ -3,8 +3,7 @@
     height: 16em;
     background-color: rgb(22, 20, 20);
     border-radius: 8px;
-    margin: 0 auto;
-    
+    margin: 0 auto; 
 }
 .login{
     padding: 15px ;
@@ -47,7 +46,7 @@ form input{
 .login-entrar p{
     cursor: pointer;
 }
-button:hover{
-    background-color: #b32123;
+.button:hover{
+    background-color: #af2527;
     cursor: pointer;
 }
